@@ -1,2 +1,3 @@
-H = "Hello Jenkins"
-printf(H)
+# This program prints Hello, world!
+
+print('Hello, world!')
